@@ -9,4 +9,4 @@ https://developer.apple.com/tutorials/develop-in-swift/model-data-with-custom-ty
 - Identifiable protocol : 고유 식별값을 통해 구분하고 싶을 때 (id 프로퍼티)_
 
 ## Preview
-<img width="" alt="" src="/Users/jeongwon/Desktop/Simulator Screenshot - iPhone 17 Pro - 2026-04-10 at 11.03.38.png">
+![](./images/screenshot.png)
