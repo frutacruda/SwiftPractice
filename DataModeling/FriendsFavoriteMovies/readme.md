@@ -7,6 +7,7 @@
 An object that maps model classes to data in the model store, and helps with the migration of that data between releases.
 - 앱의 데이터 구조를 정하고, 나중에 구조가 바뀌어도 데이터를 안전하게 옮겨주는 역할
 - 데이터베이스의 그 스키마! SwiftData Schema는 마이그레이션까지 자동으로 관리.
+
 [참고] [Apple Developer Documetation](https://developer.apple.com/documentation/swiftdata/schema)
 
 
@@ -22,6 +23,7 @@ With this annotation, you’re declaring that all code in this class must run on
 ### NavigationSplitView
 A view that presents views in two or three columns, where selections in leading columns control presentations in subsequent columns.
 - 2개 혹은 3개의 칼럼으로 표시하는 화면
+
 [참고] [Apple Developer Documetation](https://developer.apple.com/documentation/SwiftUI/NavigationSplitView)
 
 
