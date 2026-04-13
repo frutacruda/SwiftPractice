@@ -22,8 +22,8 @@
 
 ## Preview
 <p align="center">
-  <img src="./img/screenshot1.png" width="300">
-  <img src="./img/screenshot2.png" width="300">
-  <img src="./img/screenshot3.png" width="300">
-  <img src="./img/screenshot4.png" width="300">
+  <img src="./img/screenshot5.png" width="300">
+  <img src="./img/screenshot6.png" width="300">
+  <img src="./img/screenshot7.png" width="300">
+  <img src="./img/screenshot8.png" width="300">
 </p>
