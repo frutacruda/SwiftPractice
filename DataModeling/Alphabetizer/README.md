@@ -1,13 +1,32 @@
-# Alphabetizer: Complete a game with logic
+## [Data Modeling] 4. Observation and shareable data models - Complete a game with logic
+[🔗 link](https://developer.apple.com/tutorials/develop-in-swift/complete-a-game-with-logic)
 
-In this tutorial, you’ll build a fully functioning iPad game for kids learning to spell, called Alphabetizer. Working with prewritten SwiftUI views, you’ll build a “brain” for the app: a data model that understands the game rules and connects to the user interface. You’ll use observable models to connect the data models and the SwiftUI views.
+### 주석
+**FIXME** : a developer note about code known to be broken
+**TODO** : indicates a task that needs to be completed later
+**MARK** : 코드를 구조적으로 정리하고 가독성을 높이기 위한 주석
 
-This project’s codebase is more complex than those in previous tutorials. As you work through the project, you’ll learn strategies for dealing with that extra complexity.
 
-## Overview
+### await
+'await' 키워드는 asynchronous func 앞에 붙는다
+- 비동기 함수 : 실행을 일시 중지할 수 있는 함수
 
-These resources are associated with the [Complete a game with logic](https://developer.apple.com/tutorials/develop-in-swift/complete-a-game-with-logic) tutorial. This is part of the [Data Modeling](https://developer.apple.com/tutorials/develop-in-swift/welcome-to-data-modeling) tutorials from [Develop in Swift](https://developer.apple.com/tutorials/develop-in-swift) by Apple.
 
-## Using these resources
+### @MainActor
+When writing concurrent code, you must ensure that all UI updates go through the main actor. Because changes to the Alphabetizer class’s properties drive UI changes (through @Observable), you make all updates to those properties on the main actor.
 
-Follow the tutorial instructions in section one of [Complete a game with logic](https://developer.apple.com/tutorials/develop-in-swift/complete-a-game-with-logic) to use these resources within the Xcode app.
+### zip
+connects two collections into a single collection of pairs
+
+### lexicographicallyPrecedes
+사전식 순서에서 해당 시퀀스가 다른 시퀀스보다 앞에 오는지 여부 체크
+
+
+---
+## Preview
+<p align="center">
+  <img src="./img/screenshot1.png" width="300">
+  <img src="./img/screenshot2.png" width="300">
+</p>
+
+[참고] Xcode 26.3 쯤에서 일어나는 시뮬레이터 이모지 로딩 안 되는 버그.. 
