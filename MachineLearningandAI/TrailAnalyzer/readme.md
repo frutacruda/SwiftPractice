@@ -14,7 +14,7 @@
 - 정확도 accuracy
 
 
-
+---
 
 ### [Error]
 ### Maximum Error
@@ -26,7 +26,7 @@
 - RMSE가 0에 가까울수록 모델이 전반적으로 실제 데이터와 아주 유사하게 예측 중
 
 
-
+---
 
 ### [Algorithm]
 ### Decision Tree
