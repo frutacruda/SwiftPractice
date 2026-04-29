@@ -1,0 +1,80 @@
+{
+  "activityEntities" : [
+
+  ],
+  "createdDate" : "2026-04-29T02:31:39Z",
+  "dataPathRelativeToProjectURL" : "../../../../Downloads/TrailData/Trail1k.csv/",
+  "dataResult" : {
+    "columnTypes" : [
+      "Int",
+      "Int",
+      "String",
+      "Int",
+      "Int"
+    ],
+    "columnValues" : [
+      "1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3",
+      "0, 0, 0, 0, 0, 0, 0, 300, 300, 300, 300, 0, 0, 0, 0, 0, 0, 0, 0, 300, 300, 0, 0, 0, 0, 0, 0, 0, 0, 300",
+      "paved, sandy, sandy, sandy, sandy, sandy, sandy, paved, paved, paved, sandy, paved, paved, paved, paved, sandy, sandy, sandy, sandy, paved, paved, paved, paved, paved, paved, sandy, sandy, sandy, sandy, paved",
+      "0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0",
+      "1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 4"
+    ],
+    "columns" : [
+      "distance",
+      "elevation",
+      "terrain",
+      "dangerous",
+      "risk"
+    ],
+    "createdDate" : "2026-04-29T02:31:39Z",
+    "dataAnalysis" : {
+      "classifierAnalysis" : {
+
+      },
+      "issues" : [
+        {
+          "description" : "No target selected",
+          "severity" : "notReady"
+        },
+        {
+          "description" : "Data has 1000 rows",
+          "severity" : "info"
+        },
+        {
+          "description" : "No features selected",
+          "severity" : "notReady"
+        }
+      ],
+      "objectDetectorAnalysis" : {
+        "details" : {
+
+        }
+      },
+      "summary" : {
+        "canUseValidation" : 1,
+        "sampleCount" : 1000
+      }
+    },
+    "dataSourceID" : "268A4C38-DF4F-4D55-99C4-2D510483BE9F",
+    "dataURL" : "file:///Users/jeongwon/Downloads/TrailData/Trail1k.csv",
+    "error" : {
+      "code" : 1000,
+      "domain" : "composer.error.domain",
+      "errorType" : "notReady",
+      "reason" : "No target selected"
+    },
+    "itemsCount" : 1000
+  },
+  "dataURL" : "file:///Users/jeongwon/Downloads/TrailData/Trail1k.csv",
+  "experimentIDs" : [
+    "B581F6DD-5CFB-496B-B02B-B34CC7819C67",
+    "604F4B85-4CFF-4ED2-BC98-F4F2A01D1BE4",
+    "FE98C8F8-DDC1-4391-A2C4-A20066FE60C7"
+  ],
+  "id" : "268A4C38-DF4F-4D55-99C4-2D510483BE9F",
+  "modifiedDate" : "2026-04-29T02:36:52Z",
+  "pathType" : 0,
+  "preferredFilename" : "Trail1k.csv",
+  "title" : "Trail1k.csv",
+  "version" : "1.0"
+}

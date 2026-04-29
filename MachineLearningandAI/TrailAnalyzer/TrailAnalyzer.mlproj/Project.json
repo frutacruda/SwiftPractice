@@ -1,0 +1,29 @@
+{
+  "activityEntities" : [
+    "projectCreated",
+    [
+      {
+        "createdDate" : "2026-04-29T02:30:28Z",
+        "event" : "projectCreated",
+        "id" : "98744F2A-DEDF-4BA5-AEE2-A3728203F469",
+        "subtitle" : "TrailAnalyzer",
+        "title" : "Project Created"
+      }
+    ]
+  ],
+  "authorName" : "Jeongwon Choi",
+  "createdDate" : "2026-04-29T02:30:28Z",
+  "description" : "",
+  "id" : "DC7DA22C-3CB0-471B-86CE-69710377D518",
+  "license" : "",
+  "location" : "",
+  "modifiedDate" : "2026-04-29T02:30:28Z",
+  "projectName" : "TrailAnalyzer",
+  "settingsEntity" : {
+    "snapshotOnExtendTraining" : true,
+    "snapshotOnResumeTraining" : false
+  },
+  "taskType" : "generalRegresor",
+  "title" : "Tabular Regression",
+  "version" : "1.1"
+}
