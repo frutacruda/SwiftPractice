@@ -30,7 +30,7 @@
 | 14 | Recognize text in images | [Apple Docs](https://developer.apple.com/tutorials/develop-in-swift/extract-text-from-images) | [SignDecoder](https://github.com/frutacruda/SwiftPractice/tree/main/MachineLearningandAI/SignDecoder) |
 | 15 | Model training with Create ML | [Apple Docs](https://developer.apple.com/tutorials/develop-in-swift/train-a-core-ml-model) |[TrailAnalyzer](https://github.com/frutacruda/SwiftPractice/tree/main/MachineLearningandAI/TrailAnalyzer) |
 | 16 | Custom models with Core ML | [Apple Docs](https://developer.apple.com/tutorials/develop-in-swift/custom-models-with-core-ml) |[TrailAnalyzer](https://github.com/frutacruda/SwiftPractice/tree/main/MachineLearningandAI/TrailAnalyzer2) |
-| 17 | New: Image generation with Image Playground | [Apple Docs](https://developer.apple.com/tutorials/develop-in-swift/utilize-image-generation-features) | |
+| 17 | New: Image generation with Image Playground | [Apple Docs](https://developer.apple.com/tutorials/develop-in-swift/utilize-image-generation-features) |[ImageGenerator](https://github.com/frutacruda/SwiftPractice/tree/main/MachineLearningandAI/ImageGenerator) |
 | 18 | New: Intelligent features with Foundation Models | [Apple Docs](https://developer.apple.com/tutorials/develop-in-swift/generate-structured-content) | |
 
 ### Spatial Computing
